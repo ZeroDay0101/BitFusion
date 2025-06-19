@@ -1,9 +1,13 @@
 import engine.ai.Perft;
 import engine.board.Board;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-class MainTest {
+import static org.junit.Assert.assertEquals;
+
+
+public class MainTest {
+
+
     @Test
     public void startPosTest() {
      //Fens from chess programing wiki
