@@ -21,8 +21,6 @@ public class Bitboard {
 
     public Bitboard(long bitBoard) {
         this.bitBoard = bitBoard;
-
-        // setBitPositions();
     }
 
     public Bitboard() {

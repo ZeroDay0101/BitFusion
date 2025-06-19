@@ -1,6 +1,5 @@
 package engine.board;
 
-import com.sun.xml.internal.bind.v2.model.core.ID;
 import engine.Utils;
 import engine.board.representation.Bitboard;
 import engine.board.representation.ColorBoard;
